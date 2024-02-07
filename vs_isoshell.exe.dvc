@@ -1,0 +1,5 @@
+outs:
+- md5: f0f4ffde2fbb39115232184801db2e1c
+  size: 360597752
+  isexec: true
+  path: vs_isoshell.exe
